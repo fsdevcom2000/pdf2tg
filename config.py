@@ -1,5 +1,5 @@
-IMAP_SERVER = "imap.yandex.ru"
-EMAIL_ACCOUNT = "your_email@yandex.ru"
+IMAP_SERVER = "imap.example.com"
+EMAIL_ACCOUNT = "your_email@example.com"
 EMAIL_PASSWORD = "your_email_password"
 SENDER_EMAIL = "sender@example.com"
 SAVE_FOLDER = "/tmp"
